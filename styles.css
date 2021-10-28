@@ -60,6 +60,15 @@ footer {
     padding: 1%;
 }
 
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: red;
+}
+
 
 
 /* Classes */
